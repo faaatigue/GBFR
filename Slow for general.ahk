@@ -1,4 +1,4 @@
-^!w::
+^!w::; 按下Ctrl + Alt + W开始
     while true {
         ; 发送W键按下事件
         SendInput {W down}
