@@ -26,6 +26,8 @@ Slow for general：P位火龙可挂（极小概率掉V+上限）。————2
 
 Slow for general - hard：虚无狼，机神可挂。————2024.2.18
 
+Slow for general - hard：美人马可挂（什么菜鸡）。————2024.2.19
+
 
 # **操作方法：**
 
